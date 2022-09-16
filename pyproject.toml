@@ -6,7 +6,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "kolawole_hello_world"
-version = "0.3.0"
+version = "0.3.1"
 description = "Read the latest Real Python tutorials"
 dependencies = [
     "requests",
