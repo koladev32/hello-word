@@ -13,6 +13,3 @@ dependencies = [
     'importlib-metadata; python_version<"3.8"',
     "pytest"
 ]
-
-[project.optional-dependencies]
-dev = ["black", "bumpver", "isort", "pip-tools", "pytest"]
