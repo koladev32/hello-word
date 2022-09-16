@@ -18,5 +18,4 @@ from hello_world import HelloWorld
 a = HelloWorld("message")
 
 a.log()
-message
 ```
