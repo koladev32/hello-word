@@ -2,6 +2,7 @@
 
 __version__ = "0.0.0"
 
+
 class HelloWorld:
 
     def __init__(self, message):
