@@ -3,7 +3,7 @@ name: CI for package
 on:
   push:
     branches:
-      - master
+      - main
       - sdk-release/**
     tags:
       - v[0-9]+.[0-9]+.[0-9]+*
