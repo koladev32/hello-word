@@ -8,3 +8,4 @@ class HelloWorld:
 
     def log(self):
         print(self.message)
+        return self.message
