@@ -1,7 +1,8 @@
 # Simple project that print hello-world
 
+__version__ = "0.0.0"
+
 class HelloWorld:
-    __version__ = "0.0.0"
 
     def __init__(self, message):
         self.message = message
