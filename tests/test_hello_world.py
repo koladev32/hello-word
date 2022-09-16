@@ -1,4 +1,4 @@
-from hello_word import HelloWorld
+from hello_world import HelloWorld
 
 
 def test_hello_world():
