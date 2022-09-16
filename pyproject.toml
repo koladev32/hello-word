@@ -1,11 +1,11 @@
 # pyproject.toml
 
 [build-system]
-requires = ["setuptools"]
+requires = ["setuptools>=61.0.0", "wheel"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "kolawole-hello-world"
+name = "kolawole_hello_world"
 version = "0.2.0"
 dependencies = [
     "requests",
